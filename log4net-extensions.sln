@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net-extensions", "log4net-extensions.csproj", "{5094C0CC-7490-44D8-A2D1-8F4657087B21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{69F2D0F8-0C0A-4852-B216-25DF3281B986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{5094C0CC-7490-44D8-A2D1-8F4657087B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5094C0CC-7490-44D8-A2D1-8F4657087B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5094C0CC-7490-44D8-A2D1-8F4657087B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F2D0F8-0C0A-4852-B216-25DF3281B986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F2D0F8-0C0A-4852-B216-25DF3281B986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F2D0F8-0C0A-4852-B216-25DF3281B986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F2D0F8-0C0A-4852-B216-25DF3281B986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
