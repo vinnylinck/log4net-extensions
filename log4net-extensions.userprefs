@@ -1,6 +1,12 @@
-﻿<Properties StartupItem="log4net-extensions.csproj">
+﻿<Properties StartupItem="log4net-extensions.csproj" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo/Program.cs">
+    <Files>
+      <File FileName="demo/Program.cs" Line="5" Column="5" />
+      <File FileName="demo/log4net.config" Line="25" Column="25" />
+      <File FileName="demo/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
